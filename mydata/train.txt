@@ -1,0 +1,16 @@
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(1).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(2).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(4).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(5).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(6).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(8).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(9).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(16).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(10).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(11).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(13).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(14).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(15).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(17).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(18).jpg
+/home/afshin/Desktop/yolov3/darknet/mydata/images/type_1_side_1(20).jpg
