@@ -15,7 +15,9 @@ mydata/images
 ```
 
 *Pay attention I covered the name because of privacy*
-*Please download ever files which have *.download at the end and replace with that file*
+
+*Please download ever files which have ?.download at the end and replace with that file*
+
 I create classes.txt for the following:
 
 ```bash
